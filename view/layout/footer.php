@@ -2,11 +2,8 @@
     <div class="copy">
     </div>
     <div class="flinks">
-        <span><a href="#">HOME</a></span><span class="separator"> | </span>
-        <span><a href="#">ABOUT</a></span><span class="separator"> | </span>
-        <span><a href="#">REEL</a></span><span class="separator"> | </span>
-        <span><a href="#">SCREENCASTS</a></span><span class="separator"> | </span>
-        <span><a href="#">CONTACT</a></span>
+        <span><a href="/">Главная</a></span><span class="separator"> | </span>
+        <span><a href="/conract">Связь</a></span>
     </div>
     <br/><br/>
 
