@@ -32,18 +32,4 @@ class BlogController
 
     }
 
-
-    /*
-     * public static function actionPagination($str){
-
-
-        $str=(int)$str[0];
-        $countnews=news::getAllNews();
-        $news=news::getPaginationNews($str);
-        include_once "view/blog/index2.php";
-
-
-        //var_dump($news);
-    }
-    */
 }
